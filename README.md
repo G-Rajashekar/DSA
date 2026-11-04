@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/G-Rajashekar/dsa-solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/G-Rajashekar/dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1480-running-sum-of-1d-array](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -21,10 +22,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/G-Rajashekar/dsa-solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/G-Rajashekar/dsa-solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/G-Rajashekar/dsa-solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/G-Rajashekar/dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
