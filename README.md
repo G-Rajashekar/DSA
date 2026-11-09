@@ -8,6 +8,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/G-Rajashekar/dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1267-count-servers-that-communicate](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,4 +55,16 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1267-count-servers-that-communicate) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
