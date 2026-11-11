@@ -72,4 +72,12 @@
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3693-climbing-stairs-ii) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
