@@ -9,6 +9,7 @@
 | [1267-count-servers-that-communicate](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
 |  |
