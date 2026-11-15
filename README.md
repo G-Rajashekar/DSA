@@ -8,6 +8,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/G-Rajashekar/dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1267-count-servers-that-communicate](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -74,10 +76,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/G-Rajashekar/dsa-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
