@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/G-Rajashekar/dsa-solutions/tree/master/0242-valid-anagram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/G-Rajashekar/dsa-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/G-Rajashekar/dsa-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/G-Rajashekar/dsa-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
